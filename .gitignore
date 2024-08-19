@@ -1,0 +1,12 @@
+# Excluding these files
+
+# vscode folder
+.vscode/
+
+# object files
+**/*.o
+
+# Exec file
+cub3D
+
+a.out
